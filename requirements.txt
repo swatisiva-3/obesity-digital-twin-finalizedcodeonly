@@ -12,3 +12,5 @@ umap-learn>=0.5
 matplotlib>=3.7
 seaborn>=0.13
 PhenoGraph>=1.5.7
+
+xgboost==2.1.4
